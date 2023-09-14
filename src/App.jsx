@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <h1>Paladesisyon Taylor Swift's Concert</h1>
+      <h1>Paladesisyon: Taylor Sheeeesh Concert</h1>
       <Form onSubmit={handleFormSubmitTotal} />
       <p>θ = 1.8</p>
       {decision !== null ? (
